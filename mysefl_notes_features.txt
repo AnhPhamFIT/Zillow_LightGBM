@@ -10,3 +10,4 @@ taxdelinquencyflag: Y or blank
 taxdelinquencyyear -> num or blank
 censustractandblock -> num or blank
 transactiondate
+ffffffff
